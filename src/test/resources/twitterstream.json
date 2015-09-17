@@ -1,0 +1,1210 @@
+[
+  {
+    "created_at": "Tue Sep 15 18:37:37 +0000 2015",
+    "id": 643856210001829889,
+    "id_str": "643856210001829889",
+    "text": "Who was that kid holding up traffic in the parking lot today",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1413588966,
+      "id_str": "1413588966",
+      "name": "Nick Ruschak",
+      "screen_name": "NickRuschak",
+      "location": "south lyon east '17",
+      "url": null,
+      "description": null,
+      "protected": false,
+      "verified": false,
+      "followers_count": 946,
+      "friends_count": 613,
+      "listed_count": 0,
+      "favourites_count": 30326,
+      "statuses_count": 13286,
+      "created_at": "Wed May 08 19:05:59 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/639647576598409216\/wrJrMcdz_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/639647576598409216\/wrJrMcdz_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1413588966\/1441338842",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "8feb9057bc4e1655",
+      "url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/8feb9057bc4e1655.json",
+      "place_type": "city",
+      "name": "South Lyon",
+      "full_name": "South Lyon, MI",
+      "country_code": "US",
+      "country": "United States",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.66764,
+              42.441083
+            ],
+            [
+              -83.66764,
+              42.4841993
+            ],
+            [
+              -83.635666,
+              42.4841993
+            ],
+            [
+              -83.635666,
+              42.441083
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "trends": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1442342257391"
+  },
+  {
+    "created_at": "Tue Sep 15 19:51:50 +0000 2015",
+    "id": 643874886868434944,
+    "id_str": "643874886868434944",
+    "text": "RT antonywie AutoTraffic, automatically generate REAL traffic to your website! http:\/\/t.co\/bWu9Lzz6he #blogger #seo #askwhitesiders Amnes\u2026",
+    "source": "\u003ca href=\"http:\/\/ifttt.com\" rel=\"nofollow\"\u003eIFTTT\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2410368991,
+      "id_str": "2410368991",
+      "name": "Adelaide Seo",
+      "screen_name": "AdelaideSeoSA",
+      "location": "Adelaide ",
+      "url": "http:\/\/adelseo.com.au",
+      "description": "We're specialised in SEO Adelaide local business and web design in Adelaide",
+      "protected": false,
+      "verified": false,
+      "followers_count": 149,
+      "friends_count": 15,
+      "listed_count": 657,
+      "favourites_count": 0,
+      "statuses_count": 25081,
+      "created_at": "Tue Mar 25 06:13:44 +0000 2014",
+      "utc_offset": -36000,
+      "time_zone": "Hawaii",
+      "geo_enabled": false,
+      "lang": "en-gb",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/451844365833367552\/YJLXY5yM_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/451844365833367552\/YJLXY5yM_normal.jpeg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2410368991\/1396563094",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "blogger",
+          "indices": [
+            102,
+            110
+          ]
+        },
+        {
+          "text": "seo",
+          "indices": [
+            111,
+            115
+          ]
+        },
+        {
+          "text": "askwhitesiders",
+          "indices": [
+            116,
+            131
+          ]
+        }
+      ],
+      "trends": [],
+      "urls": [
+        {
+          "url": "http:\/\/t.co\/bWu9Lzz6he",
+          "expanded_url": "http:\/\/traffic.fullcontentrss.com",
+          "display_url": "traffic.fullcontentrss.com",
+          "indices": [
+            79,
+            101
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1442346710303"
+  },
+  {
+    "created_at": "Tue Sep 15 19:51:50 +0000 2015",
+    "id": 643874889091432449,
+    "id_str": "643874889091432449",
+    "text": "Stuck in traffic..... Can u guess where i live? http:\/\/t.co\/JIVrzVzDZu",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 500255761,
+      "id_str": "500255761",
+      "name": "badass callie ",
+      "screen_name": "calzonaisfire",
+      "location": "swiming in the ocean",
+      "url": null,
+      "description": "confused as fuck by the choices Shonda makes.",
+      "protected": false,
+      "verified": false,
+      "followers_count": 740,
+      "friends_count": 627,
+      "listed_count": 1,
+      "favourites_count": 621,
+      "statuses_count": 6887,
+      "created_at": "Wed Feb 22 23:31:15 +0000 2012",
+      "utc_offset": -10800,
+      "time_zone": "Brasilia",
+      "geo_enabled": true,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "BCCDD6",
+      "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/551233227969417216\/5YK60QxB.jpeg",
+      "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/551233227969417216\/5YK60QxB.jpeg",
+      "profile_background_tile": true,
+      "profile_link_color": "89C9FA",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/643557242621575169\/8Uu-j444_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/643557242621575169\/8Uu-j444_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/500255761\/1442246732",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "trends": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 643874841389584384,
+          "id_str": "643874841389584384",
+          "indices": [
+            48,
+            70
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CO-AwcDWUAANNqV.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CO-AwcDWUAANNqV.jpg",
+          "url": "http:\/\/t.co\/JIVrzVzDZu",
+          "display_url": "pic.twitter.com\/JIVrzVzDZu",
+          "expanded_url": "http:\/\/twitter.com\/calzonaisfire\/status\/643874889091432449\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 643874841389584384,
+          "id_str": "643874841389584384",
+          "indices": [
+            48,
+            70
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CO-AwcDWUAANNqV.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CO-AwcDWUAANNqV.jpg",
+          "url": "http:\/\/t.co\/JIVrzVzDZu",
+          "display_url": "pic.twitter.com\/JIVrzVzDZu",
+          "expanded_url": "http:\/\/twitter.com\/calzonaisfire\/status\/643874889091432449\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1442346710833"
+  },
+  {
+    "created_at": "Tue Sep 15 19:51:51 +0000 2015",
+    "id": 643874892920848384,
+    "id_str": "643874892920848384",
+    "text": "RT @LarryYZiam: up all night tour vs on the road again tour.\n\n #EMABiggestFans1D http:\/\/t.co\/usrUp1o5L9",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1864710306,
+      "id_str": "1864710306",
+      "name": "F a b y",
+      "screen_name": "itxndehui",
+      "location": "M\u00e9xico \/ L.A ",
+      "url": null,
+      "description": "\uff65\uff9f\u2727 album 4, track 8 \uff65\uff9f\u2727\n\n \n                            bisexual\/mexican\/fangirl\n\n                            tmhtour",
+      "protected": false,
+      "verified": false,
+      "followers_count": 27269,
+      "friends_count": 697,
+      "listed_count": 11,
+      "favourites_count": 4070,
+      "statuses_count": 14527,
+      "created_at": "Sat Sep 14 19:32:25 +0000 2013",
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "lang": "es",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/492436973353574400\/UgaSZ7hM.png",
+      "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/492436973353574400\/UgaSZ7hM.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/643565236558016513\/Jq4mIy9B_normal.png",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/643565236558016513\/Jq4mIy9B_normal.png",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1864710306\/1442269930",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Sep 15 18:04:36 +0000 2015",
+      "id": 643847901341446145,
+      "id_str": "643847901341446145",
+      "text": "up all night tour vs on the road again tour.\n\n #EMABiggestFans1D http:\/\/t.co\/usrUp1o5L9",
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1240453338,
+        "id_str": "1240453338",
+        "name": "Larry Stylinson ",
+        "screen_name": "LarryYZiam",
+        "location": "",
+        "url": "https:\/\/twitter.com\/LarryYZiam\/status\/562458546973855744",
+        "description": "Always in my heart @Harry_Styles. Yours sincerely, Louis.",
+        "protected": false,
+        "verified": false,
+        "followers_count": 68710,
+        "friends_count": 2837,
+        "listed_count": 300,
+        "favourites_count": 14958,
+        "statuses_count": 54488,
+        "created_at": "Mon Mar 04 04:17:27 +0000 2013",
+        "utc_offset": -18000,
+        "time_zone": "Mexico City",
+        "geo_enabled": true,
+        "lang": "es",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FFFDFD",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/548045315203280896\/7bLD1bjL.png",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/548045315203280896\/7bLD1bjL.png",
+        "profile_background_tile": true,
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "9C7B82",
+        "profile_sidebar_fill_color": "D7ACB6",
+        "profile_text_color": "F7BA9B",
+        "profile_use_background_image": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/625840172232347648\/pS3jeUdG_normal.png",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/625840172232347648\/pS3jeUdG_normal.png",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1240453338\/1438046949",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 690,
+      "favorite_count": 279,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "EMABiggestFans1D",
+            "indices": [
+              47,
+              64
+            ]
+          }
+        ],
+        "trends": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 643847882030850052,
+            "id_str": "643847882030850052",
+            "indices": [
+              65,
+              87
+            ],
+            "media_url": "http:\/\/pbs.twimg.com\/media\/CO9oPMnWIAQiNYo.jpg",
+            "media_url_https": "https:\/\/pbs.twimg.com\/media\/CO9oPMnWIAQiNYo.jpg",
+            "url": "http:\/\/t.co\/usrUp1o5L9",
+            "display_url": "pic.twitter.com\/usrUp1o5L9",
+            "expanded_url": "http:\/\/twitter.com\/LarryYZiam\/status\/643847901341446145\/photo\/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 494,
+                "h": 494,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 340,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 494,
+                "h": 494,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 643847882030850052,
+            "id_str": "643847882030850052",
+            "indices": [
+              65,
+              87
+            ],
+            "media_url": "http:\/\/pbs.twimg.com\/media\/CO9oPMnWIAQiNYo.jpg",
+            "media_url_https": "https:\/\/pbs.twimg.com\/media\/CO9oPMnWIAQiNYo.jpg",
+            "url": "http:\/\/t.co\/usrUp1o5L9",
+            "display_url": "pic.twitter.com\/usrUp1o5L9",
+            "expanded_url": "http:\/\/twitter.com\/LarryYZiam\/status\/643847901341446145\/photo\/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 494,
+                "h": 494,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 340,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 494,
+                "h": 494,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 643847897604337664,
+            "id_str": "643847897604337664",
+            "indices": [
+              65,
+              87
+            ],
+            "media_url": "http:\/\/pbs.twimg.com\/media\/CO9oQGoWsAAsxK0.jpg",
+            "media_url_https": "https:\/\/pbs.twimg.com\/media\/CO9oQGoWsAAsxK0.jpg",
+            "url": "http:\/\/t.co\/usrUp1o5L9",
+            "display_url": "pic.twitter.com\/usrUp1o5L9",
+            "expanded_url": "http:\/\/twitter.com\/LarryYZiam\/status\/643847901341446145\/photo\/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 494,
+                "h": 492,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 338,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 494,
+                "h": 492,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "EMABiggestFans1D",
+          "indices": [
+            63,
+            80
+          ]
+        }
+      ],
+      "trends": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "LarryYZiam",
+          "name": "Larry Stylinson ",
+          "id": 1240453338,
+          "id_str": "1240453338",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 643847882030850052,
+          "id_str": "643847882030850052",
+          "indices": [
+            81,
+            103
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CO9oPMnWIAQiNYo.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CO9oPMnWIAQiNYo.jpg",
+          "url": "http:\/\/t.co\/usrUp1o5L9",
+          "display_url": "pic.twitter.com\/usrUp1o5L9",
+          "expanded_url": "http:\/\/twitter.com\/LarryYZiam\/status\/643847901341446145\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 494,
+              "h": 494,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 340,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 494,
+              "h": 494,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 643847901341446145,
+          "source_status_id_str": "643847901341446145"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 643847882030850052,
+          "id_str": "643847882030850052",
+          "indices": [
+            81,
+            103
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CO9oPMnWIAQiNYo.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CO9oPMnWIAQiNYo.jpg",
+          "url": "http:\/\/t.co\/usrUp1o5L9",
+          "display_url": "pic.twitter.com\/usrUp1o5L9",
+          "expanded_url": "http:\/\/twitter.com\/LarryYZiam\/status\/643847901341446145\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 494,
+              "h": 494,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 340,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 494,
+              "h": 494,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 643847901341446145,
+          "source_status_id_str": "643847901341446145"
+        },
+        {
+          "id": 643847897604337664,
+          "id_str": "643847897604337664",
+          "indices": [
+            81,
+            103
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CO9oQGoWsAAsxK0.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CO9oQGoWsAAsxK0.jpg",
+          "url": "http:\/\/t.co\/usrUp1o5L9",
+          "display_url": "pic.twitter.com\/usrUp1o5L9",
+          "expanded_url": "http:\/\/twitter.com\/LarryYZiam\/status\/643847901341446145\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 494,
+              "h": 492,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 338,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 494,
+              "h": 492,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 643847901341446145,
+          "source_status_id_str": "643847901341446145"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1442346711746"
+  },
+  {
+    "created_at": "Tue Sep 15 19:51:52 +0000 2015",
+    "id": 643874894741143552,
+    "id_str": "643874894741143552",
+    "text": "@gabbymooney Sometimes stretching is uncomfortable, but it prepares us for the challenges that line the road to our destiny.",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 308180037,
+    "in_reply_to_user_id_str": "308180037",
+    "in_reply_to_screen_name": "gabbymooney",
+    "user": {
+      "id": 93770215,
+      "id_str": "93770215",
+      "name": "asa washington",
+      "screen_name": "asaking1",
+      "location": " Instagram asarivals1",
+      "url": "http:\/\/www.facebook.com\/#!\/asa.washington",
+      "description": "MY COUSIN CROOKED & HIS GROUP SLAUGHTERHOUSE  ARE SIGNED WITH EMINEM! GO CHECK THEM OUT! I BEEN WORKING ON MY TV SHOW SCRIPT!  OKC",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1106,
+      "friends_count": 2002,
+      "listed_count": 14,
+      "favourites_count": 1615,
+      "statuses_count": 163142,
+      "created_at": "Tue Dec 01 02:30:50 +0000 2009",
+      "utc_offset": -21600,
+      "time_zone": "Mountain Time (US & Canada)",
+      "geo_enabled": true,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/204287478\/168580_179287092104630_100000700203667_444977_356580_n.jpg",
+      "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/204287478\/168580_179287092104630_100000700203667_444977_356580_n.jpg",
+      "profile_background_tile": true,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/643312606321639424\/3ilr143G_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/643312606321639424\/3ilr143G_normal.jpg",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "trends": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "gabbymooney",
+          "name": "Gabby Mooney",
+          "id": 308180037,
+          "id_str": "308180037",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1442346712180"
+  },
+  {
+    "created_at": "Tue Sep 15 19:51:52 +0000 2015",
+    "id": 643874895852609541,
+    "id_str": "643874895852609541",
+    "text": "@BlackDiamond26 next sat 26th sept playroom woolwich se18 6ds. 100% road block. http:\/\/t.co\/v4Uelccuse",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 3111538217,
+    "in_reply_to_user_id_str": "3111538217",
+    "in_reply_to_screen_name": "BlackDiamond26",
+    "user": {
+      "id": 1735210567,
+      "id_str": "1735210567",
+      "name": "#wakawaka2015",
+      "screen_name": "DJDoubleA",
+      "location": "",
+      "url": null,
+      "description": "one of eastlondons best dj (period) all genre's no1 sierra leone dj in the UK. To book me 07506468889 insta djdoublea123 scloud djdoublea music utube djdoublea",
+      "protected": false,
+      "verified": false,
+      "followers_count": 1085,
+      "friends_count": 1059,
+      "listed_count": 1,
+      "favourites_count": 2720,
+      "statuses_count": 16878,
+      "created_at": "Fri Sep 06 13:47:44 +0000 2013",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/612178957455204352\/14LQQXEA_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/612178957455204352\/14LQQXEA_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1735210567\/1432876316",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "trends": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "BlackDiamond26",
+          "name": "#FreshersGoneWild",
+          "id": 3111538217,
+          "id_str": "3111538217",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 643874886197358592,
+          "id_str": "643874886197358592",
+          "indices": [
+            80,
+            102
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CO-AzC-WsAASzSL.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CO-AzC-WsAASzSL.jpg",
+          "url": "http:\/\/t.co\/v4Uelccuse",
+          "display_url": "pic.twitter.com\/v4Uelccuse",
+          "expanded_url": "http:\/\/twitter.com\/DJDoubleA\/status\/643874895852609541\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 960,
+              "h": 960,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 340,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 643874886197358592,
+          "id_str": "643874886197358592",
+          "indices": [
+            80,
+            102
+          ],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CO-AzC-WsAASzSL.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CO-AzC-WsAASzSL.jpg",
+          "url": "http:\/\/t.co\/v4Uelccuse",
+          "display_url": "pic.twitter.com\/v4Uelccuse",
+          "expanded_url": "http:\/\/twitter.com\/DJDoubleA\/status\/643874895852609541\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 960,
+              "h": 960,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 340,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1442346712445"
+  },
+  {
+    "created_at": "Tue Sep 15 19:51:52 +0000 2015",
+    "id": 643874896293052417,
+    "id_str": "643874896293052417",
+    "text": "RT http:\/\/t.co\/cmAvDRq9hZ Hurray! I have finished \"Road to success\" task  in Big Business HD for iPad! http:\/\/t.co\/Y2UfChgpzq #ipadgame\u2026",
+    "source": "\u003ca href=\"http:\/\/ifttt.com\" rel=\"nofollow\"\u003eIFTTT\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3327742298,
+      "id_str": "3327742298",
+      "name": "Bryan Zwan",
+      "screen_name": "BryanZwan3",
+      "location": "",
+      "url": "http:\/\/www.whitepages.com\/name\/Bryan-Zwan",
+      "description": "Hi I'm Bryan Zwan and I simply love life and being around my family",
+      "protected": false,
+      "verified": false,
+      "followers_count": 457,
+      "friends_count": 40,
+      "listed_count": 490,
+      "favourites_count": 0,
+      "statuses_count": 32599,
+      "created_at": "Mon Aug 24 03:07:04 +0000 2015",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/638669265395052545\/-KecsQwk_normal.png",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/638669265395052545\/-KecsQwk_normal.png",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/3327742298\/1441105782",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 643874704676245504,
+    "quoted_status_id_str": "643874704676245504",
+    "quoted_status": {
+      "created_at": "Tue Sep 15 19:51:06 +0000 2015",
+      "id": 643874704676245504,
+      "id_str": "643874704676245504",
+      "text": "Hurray! I have finished \"Road to success\" task  in Big Business HD for iPad! http:\/\/t.co\/b3SUZ6Sllp #ipadgames #gameinsight #ipad",
+      "source": "\u003ca href=\"http:\/\/www.game-insight.com\/\" rel=\"nofollow\"\u003eBig Business\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 439838785,
+        "id_str": "439838785",
+        "name": "Menno Schelfaut",
+        "screen_name": "SchelfautM",
+        "location": "Velserbroek",
+        "url": null,
+        "description": null,
+        "protected": false,
+        "verified": false,
+        "followers_count": 16,
+        "friends_count": 225,
+        "listed_count": 1,
+        "favourites_count": 23,
+        "statuses_count": 1742,
+        "created_at": "Sun Dec 18 07:50:41 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_1_normal.png",
+        "profile_image_url_https": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_1_normal.png",
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ipadgames",
+            "indices": [
+              100,
+              110
+            ]
+          },
+          {
+            "text": "gameinsight",
+            "indices": [
+              111,
+              123
+            ]
+          },
+          {
+            "text": "ipad",
+            "indices": [
+              124,
+              129
+            ]
+          }
+        ],
+        "trends": [],
+        "urls": [
+          {
+            "url": "http:\/\/t.co\/b3SUZ6Sllp",
+            "expanded_url": "http:\/\/tinyurl.com\/obgen6c",
+            "display_url": "tinyurl.com\/obgen6c",
+            "indices": [
+              77,
+              99
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ipadgame",
+          "indices": [
+            126,
+            135
+          ]
+        }
+      ],
+      "trends": [],
+      "urls": [
+        {
+          "url": "http:\/\/t.co\/cmAvDRq9hZ",
+          "expanded_url": "http:\/\/twitter.com\/SchelfautM\/status\/643874704676245504",
+          "display_url": "twitter.com\/SchelfautM\/sta\u2026",
+          "indices": [
+            3,
+            25
+          ]
+        },
+        {
+          "url": "http:\/\/t.co\/Y2UfChgpzq",
+          "expanded_url": "http:\/\/tinyurl.com\/obgen6c",
+          "display_url": "tinyurl.com\/obgen6c",
+          "indices": [
+            103,
+            125
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1442346712550"
+  }
+]
