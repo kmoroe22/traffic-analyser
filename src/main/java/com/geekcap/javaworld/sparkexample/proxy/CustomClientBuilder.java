@@ -210,6 +210,7 @@ public class CustomClientBuilder extends ClientBuilder {
             HttpHost proxy = new HttpHost(proxyHost, proxyPort);
             params.setParameter(ConnRoutePNames.DEFAULT_PROXY, proxy);
         }
+        
         HttpProtocolParams.setVersion(params, HttpVersion.HTTP_1_1);
         HttpProtocolParams.setUserAgent(params, USER_AGENT);
         HttpConnectionParams.setSoTimeout(params, socketTimeoutMillis);
